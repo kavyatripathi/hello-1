@@ -1,2 +1,3 @@
-# hello
-to know how to use github
+# Hello, World
+
+## This is to familiarize myself with the functionalities of GitHub
